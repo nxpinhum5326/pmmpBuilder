@@ -1,0 +1,3 @@
+C:/Users/furki/CLionProjects/pmmpBuilder/cmake-build-debug/CMakeFiles/pmmpBuilder.dir
+C:/Users/furki/CLionProjects/pmmpBuilder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/furki/CLionProjects/pmmpBuilder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
