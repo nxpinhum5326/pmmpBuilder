@@ -1,5 +1,5 @@
 /**
- * nxpinhum5326/pmmoBuilder alpha
+ * nxpinhum5326/pmmpBuilder alpha
  */
 
 #include <iostream>
